@@ -77,6 +77,10 @@
   </a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ###
 
 <img src="https://raw.githubusercontent.com/satyabratapradhan01/satyabratapradhan01/output/snake.svg" alt="Snake animation" />
