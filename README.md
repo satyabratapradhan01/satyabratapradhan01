@@ -80,9 +80,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2025 - To: 05 September 2025
+From: 30 August 2025 - To: 06 September 2025
 
-No activity tracked
+JavaScript   1 hr 13 mins    ███████████████████████░░   92.09 %
+JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
