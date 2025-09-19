@@ -80,10 +80,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
-Java         2 hrs 2 mins    ███████████████████████░░   91.93 %
-JavaScript   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Java         1 hr 57 mins    █████████████████░░░░░░░░   67.96 %
+JavaScript   55 mins         ████████░░░░░░░░░░░░░░░░░   32.02 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
