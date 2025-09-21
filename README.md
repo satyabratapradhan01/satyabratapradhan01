@@ -80,11 +80,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 17 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-Java         1 hr 57 mins    █████████████████░░░░░░░░   67.96 %
-JavaScript   55 mins         ████████░░░░░░░░░░░░░░░░░   32.02 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java         3 hrs 57 mins   ████████████████▒░░░░░░░░   65.51 %
+JavaScript   1 hr 30 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+JSON         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
