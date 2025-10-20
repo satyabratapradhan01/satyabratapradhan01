@@ -80,7 +80,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2025 - To: 18 October 2025
+From: 12 October 2025 - To: 19 October 2025
 
 JavaScript   1 hr 21 mins    ████████████▒░░░░░░░░░░░░   49.76 %
 HTML         35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
