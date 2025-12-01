@@ -80,9 +80,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2025 - To: 29 November 2025
+From: 23 November 2025 - To: 30 November 2025
 
-No activity tracked
+JavaScript   18 mins         ███████████████████▓░░░░░   79.03 %
+JSON         4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
