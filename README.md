@@ -80,10 +80,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-JavaScript   21 mins         ████████████████████████▒   97.85 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JavaScript   6 mins          ███████████████████████▒░   92.69 %
+JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
 ```
 
 <!--END_SECTION:waka-->
