@@ -80,11 +80,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 20 December 2025
+From: 14 December 2025 - To: 21 December 2025
 
-JavaScript   3 hrs 45 mins   ███████████████████████░░   91.53 %
-Bash         19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript   6 hrs 5 mins    ███████████████████████▓░   94.58 %
+Bash         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
