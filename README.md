@@ -80,12 +80,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-JavaScript   2 hrs 47 mins   ███████████████▒░░░░░░░░░   61.71 %
-Java         1 hr 27 mins    ████████░░░░░░░░░░░░░░░░░   32.35 %
-YAML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+JavaScript   3 hrs 16 mins         ███████████████████████░░   92.44 %
+YAML         12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+JSON         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
