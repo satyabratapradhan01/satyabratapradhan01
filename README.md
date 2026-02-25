@@ -80,13 +80,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2026 - To: 23 February 2026
+From: 17 February 2026 - To: 24 February 2026
 
-JavaScript   8 hrs 39 mins         ████████████████████████▓   98.16 %
-JSON         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   11 hrs 33 mins        ████████████████████████▓   98.62 %
+JSON         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
